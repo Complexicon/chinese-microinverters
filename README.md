@@ -10,6 +10,7 @@
 - the main chip of the DTU is most likely a BL602 Risc-V Chip based on the SiFive E24 Core
 - the DTU has BLE but is unused?
 
-some known web endpoints in the stock firmware
+## some known web endpoints in the stock firmware
+
 ![image](https://github.com/user-attachments/assets/eca5b65e-689e-430e-a0da-103795c77fab)
 ![image](https://github.com/user-attachments/assets/f102fabb-b0c7-4bf2-9d3e-ed752e6ce92b)
