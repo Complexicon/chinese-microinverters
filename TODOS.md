@@ -1,0 +1,2 @@
+- Vollen Flashdump machen mit AT+HIFLYING vendor AT command und den analysieren anstatt nur auf die OTA zu schauen
+- vielleicht auf dauer einfacher https://github.com/openshwprojects/OpenBK7231T_App auf die wechselrichter zu portieren
